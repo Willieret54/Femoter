@@ -30,10 +30,7 @@ player=default
 rating=-1.00
 
 
-# 2191515
-name=TV Shows 24/7 High Quality Only (Porkie's Playlist)
-thumb=http://www.southwoodgraphics.com/portals/0/Images/Committed-to-Quality-Southwood-Graphics.png
-URL=http://www.navixtreme.com/playlist/125434/tv_shows_247_high_quality_only_(porkies_playlist).plx
+
 
 # 1995427
 type=playlist
