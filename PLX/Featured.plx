@@ -150,7 +150,6 @@ type=video
 name=Chris Hardwick: Mandroid (2012)
 thumb=http://ia.media-imdb.com/images/M/MV5BMjIxNDU5Mzc0M15BMl5BanBnXkFtZTgwOTc1NzA2MDE@._V1_SX640_SY720_.jpg
 URL=http://www.putlocker.com/file/03A29ED838A96A54#
-processor=http://www.navixtreme.com/wlfwood/processors/putlocker.txt
 player=default
 rating=-1.00
 
