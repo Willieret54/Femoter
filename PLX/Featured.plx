@@ -124,7 +124,7 @@ rating=-1.00
 
 # 2190014
 type=video
-name=Jackass Presents: Bad Grandpa (2013)
+name=Oblivion
 thumb=http://ia.media-imdb.com/images/M/MV5BMTg4NjIwMTI5OV5BMl5BanBnXkFtZTgwNjU1MTMyMDE@._V1_SX640_SY720_.jpg
 date=2014-01-12
 URL=rtmp://93.115.87.103/vod/237924550ac4536b5601a31dd4d44858.mp4 swfUrl=http://fleon.me/1.swf pageUrl=http://fleon.me/.videos.php?Id=22bf35fc30f2b50fede95388ffa30314
@@ -145,7 +145,14 @@ rating=-1.00
 
 
 
-
+# 2198398
+type=video
+name=Chris Hardwick: Mandroid (2012)
+thumb=http://ia.media-imdb.com/images/M/MV5BMjIxNDU5Mzc0M15BMl5BanBnXkFtZTgwOTc1NzA2MDE@._V1_SX640_SY720_.jpg
+URL=http://www.putlocker.com/file/03A29ED838A96A54#
+processor=http://www.navixtreme.com/wlfwood/processors/putlocker.txt
+player=default
+rating=-1.00
 
 
 
