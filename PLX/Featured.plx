@@ -124,10 +124,11 @@ rating=-1.00
 
 # 2190014
 type=video
-name=Oblivion
+name=Oblivion llllllll
 thumb=http://ia.media-imdb.com/images/M/MV5BMTg4NjIwMTI5OV5BMl5BanBnXkFtZTgwNjU1MTMyMDE@._V1_SX640_SY720_.jpg
 date=2014-01-12
-URL=rtmp://93.115.87.103/vod/237924550ac4536b5601a31dd4d44858.mp4 swfUrl=http://fleon.me/1.swf pageUrl=http://fleon.me/.videos.php?Id=22bf35fc30f2b50fede95388ffa30314
+URL=http://www.nowvideo.eu/video/516e8b663697c
+processor=https://raw.github.com/Willieret54/Femoter/master/Processors/processors-nowvideo.txt
 player=default
 rating=-1.00
 
