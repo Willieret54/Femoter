@@ -133,26 +133,13 @@ player=default
 rating=-1.00
 
 
-# 2190015
+# 2190014
 type=video
-name=Oblivion 111(2013)
-thumb=http://i2.cdnds.net/13/09/618x978/movies-tom-cruise-morgan-freeman-oblivion.jpg
+name=The Art of the Steal (2013)
+thumb=http://ia.media-imdb.com/images/M/MV5BMTU3Nzk4MTUyMl5BMl5BanBnXkFtZTgwNzk5NjgxMDE@._V1_SY317_CR131,0,214,317_.jpg
 date=2014-01-12
-URL=http://www.nowvideo.eu/video/516e8b663697c
+URL=http://www.nowvideo.sx/video/752819dc6d570
 processor=https://raw.github.com/Willieret54/Femoter/master/Processors/processors-nowvideo.txt
-player=default
-rating=-1.00
-description=
-rating=-1.00
-
-
-
-# 2198398
-type=video
-name=Chris Hardwick: Mandroid (2012)
-thumb=http://ia.media-imdb.com/images/M/MV5BMjIxNDU5Mzc0M15BMl5BanBnXkFtZTgwOTc1NzA2MDE@._V1_SX640_SY720_.jpg
-date=2014-01-12
-URL=http://www.putlocker.com/file/03A29ED838A96A54#
 player=default
 rating=-1.00
 
