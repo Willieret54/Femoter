@@ -25,7 +25,7 @@ type=video
 name=Iron Man & Hulk: Heroes United
 thumb=http://ia.media-imdb.com/images/M/MV5BMTQ5MDY0NjE5M15BMl5BanBnXkFtZTgwNDE0ODA2MDE@._V1_SX640_SY720_.jpg
 date=2014-01-12
-URL=rtmp://93.115.87.105/vod/ea66db609f24d6eb5bc29d223dcfeccf.mp4 swfUrl=http://fleon.me/3.swf pageUrl=http://fleon.me/.videos.php?Id=0f707fafabee6a2ccda311ac334b0f04
+URL=https://raw.github.com/Willieret54/Femoter/master/Feature%20Movies
 player=default
 rating=-1.00
 
