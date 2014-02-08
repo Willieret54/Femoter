@@ -20,8 +20,8 @@ rating=-1.00
 
 
 
-# 2191515
-type=video
+# 2191516
+type=playlist
 name=Featured Movies
 thumb=https://raw.github.com/Willieret54/Femoter/master/Art/Movies1.png
 date=2014-01-12
@@ -43,7 +43,7 @@ rating=-1.00
 
 
 # 1995427
-type=playlist
+type=video
 name=local
 thumb=http://www-deadline-com.vimg.net/wp-content/uploads/2012/08/arrested_development__120807003750.jpg
 URL=http://www.navixtreme.com/playlist/125434/tv_shows_247_high_quality_only_(porkies_playlist).plx
