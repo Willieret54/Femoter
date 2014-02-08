@@ -22,10 +22,10 @@ rating=-1.00
 
 # 2191515
 type=video
-name=Iron Man & Hulk: Heroes United
-thumb=http://ia.media-imdb.com/images/M/MV5BMTQ5MDY0NjE5M15BMl5BanBnXkFtZTgwNDE0ODA2MDE@._V1_SX640_SY720_.jpg
+name=Featured Movies
+thumb=https://raw.github.com/Willieret54/Femoter/master/Art/Movies1.png
 date=2014-01-12
-URL=https://raw.github.com/Willieret54/Femoter/master/Feature%20Movies
+URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Featured.plx
 player=default
 rating=-1.00
 
