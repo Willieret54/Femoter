@@ -33,14 +33,5 @@ player=default
 rating=-1.00
 
 
-# 9999999
-type=playlist
-name=youtube
-thumb=http://sat-mactep.ru/liteplus.JPG
-date=2014-01-12
-URL=https://raw.github.com/Willieret54/Femoter/master/PLX/VideosMusic.plx
-player=default
-rating=-1.00
-
 
 # cached

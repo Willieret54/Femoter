@@ -2,6 +2,50 @@ version=1
 title=themovielist2013
 
 
+
+# 2190001
+type=video
+name=Devil's Due (2014) 
+thumb=http://ia.media-imdb.com/images/M/MV5BMTc5MjE0OTY2M15BMl5BanBnXkFtZTgwNzExNTU1MDE@._V1_SX214_.jpg
+date=2014-01-12
+URL=rtmp://93.115.87.103/vod/243b01242bd5bebdfa1ba0bae7c4a97e.mp4 swfUrl=http://fleon.me/1.swf pageUrl=http://fleon.me/.videos.php?Id=f1896efe76ca824745d7103a5efa17a9
+player=default
+rating=-1.00
+
+
+# 2190001
+type=video
+name=The Trials of Cate McCall (2013)  
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ0MTUwNjI4MF5BMl5BanBnXkFtZTgwOTk4MDk3MDE@._V1_SX214_.jpg
+date=2014-01-12
+URL=rtmp://93.115.87.103/vod/843f99e26d9024f6ecb9ba7a555b7d1a.mp4 swfUrl=http://fleon.me/1.swf pageUrl=http://fleon.me/.videos.php?Id=1d7d4b03044f94a6655c89840a7ad2c2
+player=default
+rating=-1.00
+
+
+# 2190001
+type=video
+name=Nebraska (2013)  
+thumb=http://ia.media-imdb.com/images/M/MV5BMTQ0MTUwNjI4MF5BMl5BanBnXkFtZTgwOTk4MDk3MDE@._V1_SX214_.jpg
+date=2014-01-12
+URL=rtmp://93.115.87.103/vod/20639b767478006218447b27e4b853cb.mp4 swfUrl=http://fleon.me/1.swf pageUrl=http://fleon.me/.videos.php?Id=2565d4b57def4b08a010d06802bdf9e2
+player=default
+rating=-1.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2190001
 type=video
 name=47 Ronin (2013)
