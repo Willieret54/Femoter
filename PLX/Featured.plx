@@ -132,8 +132,15 @@ player=default
 rating=-1.00
 
 
-
-
+# 2190015
+type=video
+name=Oblivion (2013)
+thumb=http://i2.cdnds.net/13/09/618x978/movies-tom-cruise-morgan-freeman-oblivion.jpg
+URL=http://www.nowvideo.eu/video/516e8b663697c
+processor=https://raw.github.com/Willieret54/Femoter/master/Processors/processors-nowvideo.txt
+player=default
+rating=-1.00
+description=
 
 
 
