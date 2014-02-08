@@ -26,9 +26,9 @@ rating=-1.00
 # 9999999
 type=playlist
 name=Main Event
-thumb=http://sat-mactep.ru/liteplus.JPG
+thumb=https://raw.github.com/Willieret54/Femoter/master/Art/Sports-Logo.png
 date=2014-01-12
-URL=http://www.navixtreme.com/playlist/112567/live_tv_channels_all_checked_all_working_3-2-2014_us_2-3-2014.plx
+URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Sports.plx
 player=default
 rating=-1.00
 
