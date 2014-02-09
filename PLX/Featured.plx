@@ -93,8 +93,14 @@ player=default
 rating=-1.00
 
 
-
-
+# 2190001
+type=video
+name=The Adventurer: The Curse of the Midas Box (2013) 
+thumb=http://ia.media-imdb.com/images/M/MV5BNTAwODA2NDUxMF5BMl5BanBnXkFtZTgwNTgyNDc1MDE@._V1_SX214_.jpg
+date=2014-01-12
+URL=rtmp://93.115.87.103/vod/91ce7af6fd78404683c10a370c37ad9d.mp4 swfUrl=http://fleon.me/1.swf pageUrl=http://fleon.me/.videos.php?Id=b75eebe1ca7883162d1f86826f3099ea
+player=default
+rating=-1.00
 
 
 
