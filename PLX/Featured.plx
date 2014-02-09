@@ -86,7 +86,7 @@ rating=-1.00
 # 2190001
 type=video
 name=August: Osage County (2013)
-thumb=http://www.imdb.com/media/rm3037715456/tt1322269?ref_=tt_ov_i
+thumb=http://ia.media-imdb.com/images/M/MV5BNzQ5ODE4NTcxNV5BMl5BanBnXkFtZTgwNjkyNDQ0MDE@._V1_SX214_.jpg
 date=2014-01-12
 URL=rtmp://93.115.87.103/vod/b9aac767f4bca7575c60002eb74930a8.mp4 swfUrl=http://fleon.me/1.swf pageUrl=http://fleon.me/.videos.php?Id=8bbcd9a346d3d0f834b19f0199be8d11
 player=default
