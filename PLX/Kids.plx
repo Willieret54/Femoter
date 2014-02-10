@@ -3,6 +3,22 @@ title=themovielist2013
 
 
 
+# 9999998
+type=playlist
+name=Catalog
+thumb=https://raw.github.com/Willieret54/Femoter/master/Art/MoviesKids.png
+date=2014-01-12
+URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Featured.plx
+player=default
+rating=-1.00
+
+
+
+
+
+
+
+
 
 
 # 2191000
