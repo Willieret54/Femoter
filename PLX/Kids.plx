@@ -8,7 +8,7 @@ type=playlist
 name=Catalog
 thumb=https://raw.github.com/Willieret54/Femoter/master/Art/MoviesKids.png
 date=2014-01-12
-URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Featured.plx
+URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Kids_biglist.plx
 player=default
 rating=-1.00
 
