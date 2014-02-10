@@ -1,53 +1,10 @@
 version=1
 
 
-# 1877814
-type=video
-name=ESPN HD Live
-thumb=http://3.bp.blogspot.com/_7ImJDobihuo/THH9p-9Y9EI/AAAAAAAAABI/dGc3Exw6_s8/s1600/ESPN_HD.png
-URL=rtmp://edge.isearch.to/edge playpath=xoaaohmeuajfeyf swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/48051/watch-live-ESPN_(HD)-streaming-channel-for-free
-player=default
-rating=-1.00
 
-# 1877815
-type=video
-name=ESPN
-thumb=http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg
-URL=rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1
-player=default
-rating=-1.00
 
-# 1877816
-type=video
-name=ESPN 2
-thumb=http://balladtv.com/wp-content/uploads/2010/10/ESPN2_logo-189x175.jpg
-URL=rtmp://edge.isearch.to/edge/r0an48lzpf3fd6t swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default
-rating=-1.00
 
-# 1877818
-type=video
-name=NFL Network
-thumb=http://rbr.com/wp-content/uploads/NFL1-225x180.jpg
-URL=rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
-player=default
-rating=-1.00
 
-# 1877820
-type=video
-name=NBA TV
-thumb=http://www.lyngsat-logo.com/hires/nn/nba_tv.png
-URL=rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/NBA TV
-player=default
-rating=-1.00
-
-# 1877821
-type=video
-name=NBC Sports Network
-thumb=http://www.brandchannel.com/home/image.axd?picture=2012%2F6%2Fnbc_sports_new_logo_300.jpg
-URL=rtmp://edge.isearch.to/edge/mnsq6xfnnjcqiv6 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-player=default
-rating=-1.00
 
 
 # 1877789
