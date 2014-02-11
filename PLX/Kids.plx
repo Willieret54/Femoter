@@ -8,7 +8,7 @@ title=themovielist2013
 
 # 9999991
 type=playlist
-name=Animation Catalog
+name=------------Animation Catalog------------
 thumb=https://raw.github.com/Willieret54/Femoter/master/Art/MoviesKids.png
 date=2014-01-12
 URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Kids_biglist2.plx
