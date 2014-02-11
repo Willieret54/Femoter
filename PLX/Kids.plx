@@ -4,11 +4,6 @@ title=themovielist2013
 
 
 
-name=###Catalog 1###
-thumb=https://raw.github.com/Willieret54/Femoter/master/Art/MoviesKids.png
-date=2014-01-12
-URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Kids_biglist.plx
-
 
 
 # 9999998
