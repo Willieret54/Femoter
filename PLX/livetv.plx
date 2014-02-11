@@ -2,10 +2,12 @@ version=1
 
 # 2210349
 type=video
-name=JSCC
-date=2014-01-20
-URL=rtsp://78.100.44.238/live-jscc/jscc/
+name=Two Broke Girls (TV Shows 24/7 High Quality Only (Porkie's Playlist))
+date=2014-02-09
+URL=rtmp://198.27.74.25/app playpath=2bg01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01
+player=default
 rating=-1.00
+date=2014-02-09
 
 # 2210350
 type=video
