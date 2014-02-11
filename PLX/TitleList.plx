@@ -60,4 +60,15 @@ URL=http://offsite.tv/iLive-XBMC.xml
 player=default
 rating=-1.00
 
+
+# 9999999
+type=playlist
+name=Main Event222222222222222
+thumb=https://raw.github.com/Willieret54/Femoter/master/Art/Sports-Logo.png
+date=2014-01-12
+URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Sports.plx
+player=default
+rating=-1.00
+
+
 # cached
