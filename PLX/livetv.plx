@@ -5,19 +5,14 @@ type=rss:video
 name=[COLOR=FFFF0000]Real Live TV [/COLOR][COLOR=FF00FF00] iLive [/COLOR] - over 150+ live streaming TV Channels updated 2-3 times daily
 thumb=http://offsite.tv/za.png
 URL=http://offsite.tv/iLive-XBMC.xml
+background=http://offsite.tv/za.png
 player=default
 rating=-1.00
-description=
+description=HI this free list by MX has 150 - 250 channels in each update (updated 2-3 time daily)  and  in many  languages i.e. English, Spanish, Portuguese, Cantonese etc.  Live Copa,Cricket, NBA,NFL,NHL,WWE PPV,BPL, EPL etc     
 
+Please tell your friends about this list.  
 
-# 9999995
-type=playlist
-name=iLive
-thumb=http://offsite.tv/za.png
-date=2014-01-12
-URL=http://offsite.tv/iLive-XBMC.xml
-player=default
-rating=-1.00
+We see what other playlists are doing .. so thanks for putting this in your playlists./description
 
 
 
