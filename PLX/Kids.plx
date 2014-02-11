@@ -3,19 +3,17 @@ title=themovielist2013
 
 
 
-# 9999998
-type=playlist
+
 name=###Catalog 1###
 thumb=https://raw.github.com/Willieret54/Femoter/master/Art/MoviesKids.png
 date=2014-01-12
 URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Kids_biglist.plx
-player=default
-rating=-1.00
+
 
 
 # 9999998
 type=playlist
-name=###Catalog 2###
+name=[COLOR=FFCC00]Catalog [/COLOR]
 thumb=https://raw.github.com/Willieret54/Femoter/master/Art/MoviesKids.png
 date=2014-01-12
 URL=https://raw.github.com/Willieret54/Femoter/master/PLX/Kids_biglist2.plx
