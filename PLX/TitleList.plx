@@ -52,7 +52,7 @@ description=
 
 
 # 9999999
-type=rss:video
+type=playlist
 name=iLive
 thumb=http://offsite.tv/za.png
 date=2014-01-12
