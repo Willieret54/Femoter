@@ -264,15 +264,7 @@ player=default
 rating=-1.00
 
 
-# 2190014
-type=video
-name=Oblivion llllllll
-thumb=http://ia.media-imdb.com/images/M/MV5BMTg4NjIwMTI5OV5BMl5BanBnXkFtZTgwNjU1MTMyMDE@._V1_SX640_SY720_.jpg
-date=2014-01-12
-URL=http://www.nowvideo.eu/video/516e8b663697c
-processor=https://raw.github.com/Willieret54/Femoter/master/Processors/processors-nowvideo.txt
-player=default
-rating=-1.00
+
 
 
 # 2190014
@@ -286,8 +278,14 @@ player=default
 rating=-1.00
 
 
-
-
+# 2190009
+type=video
+name=Her (2013) 
+thumb=http://ia.media-imdb.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SY317_CR0,0,214,317_.jpg
+date=2014-01-12
+URL=rtmp://93.115.87.103/vod/1472f9f8b981c1af90981d83f2470f64.mp4 swfUrl=http://fleon.me/1.swf pageUrl=http://fleon.me/.videos.php?Id=dacb286acf89d4a4793ea4ce4bdd5d97
+player=default
+rating=-1.00
 
 
 
