@@ -1,10 +1,7 @@
 version=1
 
 
-type=playlist
-name=Sorted by user-assigned order
-icon=http://media.navi-x.org/images/icons/2downarrow.png
-URL=http://www.navixtreme.com/playlist/130469/1000_movies.plx?action=sortsel&cur=ord
+
 
 # 2115098
 type=video
