@@ -1,6 +1,24 @@
 version=1
 title=themovielist2013
 
+
+# 9999999
+type=playlist
+name=Movies
+thumb=https://raw.github.com/Willieret54/Femoter/master/Art/Movies2.png
+date=2014-01-12
+URL=https://raw.github.com/Willieret54/Femoter/master/PLX/MovieList.plx
+player=default
+rating=-1.00
+
+
+
+
+
+
+
+
+
 # 2190005
 type=video
 name=Ride Along (2014)
